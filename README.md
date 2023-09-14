@@ -34,6 +34,14 @@ Power BI is used to create interactive and informative visualizations that showc
 - Geographic maps showing the distribution of restaurant locations.
 - Dashboards summarizing key performance indicators (KPIs).
 
+### Power BI Visualization
+
+![Dashboard 1](https://github.com/harsh-j-sharma/Pizza-Sales-Project-SQL-PowerBI/blob/main/PizzaSalesDashboard.png)
+
+This dashboard displays sales trends over time.
+
+![Dashboard 2](https://example.com/dashboard2.png)
+
 ### 5. Insights and Recommendations
 
 Based on the analysis and visualizations, actionable insights and recommendations are provided to the pizza restaurant chain. These insights can help in making informed decisions to improve sales, marketing strategies, and overall business performance.
