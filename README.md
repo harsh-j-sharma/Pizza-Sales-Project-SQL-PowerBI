@@ -38,9 +38,8 @@ Power BI is used to create interactive and informative visualizations that showc
 
 ![Dashboard 1](https://github.com/harsh-j-sharma/Pizza-Sales-Project-SQL-PowerBI/blob/main/PizzaSalesDashboard.png)
 
-This dashboard displays sales trends over time.
 
-![Dashboard 2](https://example.com/dashboard2.png)
+![Dashboard 2](https://github.com/harsh-j-sharma/Pizza-Sales-Project-SQL-PowerBI/blob/main/PizzaSalesDashboard2.png)
 
 ### 5. Insights and Recommendations
 
